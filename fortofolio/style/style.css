@@ -1,0 +1,22 @@
+hr {
+    width: 200px;
+    border-top: 10px solid #111;
+    margin: 0 auto;
+}
+
+section {
+    min-height: 800px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.warna-bg {
+    background-color: aliceblue;
+}
+
+footer {
+    min-height: 100px;
+}
